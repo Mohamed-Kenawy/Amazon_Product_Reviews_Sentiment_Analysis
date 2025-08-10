@@ -16,6 +16,7 @@ This project builds a **sentiment analysis pipeline** for product or service rev
 The notebook expects a CSV file named **`Reviews.csv`** with at least:
 - `Text` — review text
 - `Sentiment` — target label (positive/negative)
+- Data Link: https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
 
 💡 *You can replace `Reviews.csv` with your own dataset as long as the column names match.*
 
